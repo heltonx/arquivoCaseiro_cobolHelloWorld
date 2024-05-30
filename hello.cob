@@ -10,6 +10,6 @@
 
 000070 Inicio.
 
-000080 DISPLAY ìhello world!î
+000080 DISPLAY ‚Äúhello world‚Äù
 
-000090 STOP ìteste.î.
+000090 STOP ‚Äúteste.‚Äù.
